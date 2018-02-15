@@ -1,0 +1,2 @@
+# suggestExpressionDictionary
+Redpen用の単語提案
